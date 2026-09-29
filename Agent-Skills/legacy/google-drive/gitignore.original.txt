@@ -1,0 +1,5 @@
+.venv/
+credentials.json
+token.json
+*.apps.googleusercontent.com.json
+__pycache__/

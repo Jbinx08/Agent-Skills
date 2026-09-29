@@ -1,0 +1,7 @@
+interface:
+  display_name: "Vibe Master Flow"
+  short_description: "Vibe Master 프로젝트 수명주기 초기화 및 운영"
+  default_prompt: "Use $vibe-master-flow to initialize Vibe-master in this project and begin the new-project intake."
+
+policy:
+  allow_implicit_invocation: true
