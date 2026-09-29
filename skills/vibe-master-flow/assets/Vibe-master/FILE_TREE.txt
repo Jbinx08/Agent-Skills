@@ -1,0 +1,23 @@
+VibeBuildFlow/
+├─ VIBE_MASTER.md
+├─ START_HERE.md
+├─ BuildSystem/
+│  ├─ BUILD_FLOW.md
+│  ├─ RELEASE_BUILD_FLOW.md
+│  ├─ PROJECT_STRUCTURE.md
+│  └─ PROJECT_TYPE_GUIDE.md
+└─ Templates/
+   ├─ README.template.md
+   ├─ AGENTS.template.md
+   ├─ progress.template.md
+   ├─ PROJECT_PLAN.template.md
+   ├─ architecture.template.md
+   ├─ design.template.md
+   ├─ DECISIONS.template.md
+   ├─ TEST_MATRIX.template.md
+   ├─ SECURITY_CHECKLIST.template.md
+   ├─ PLATFORM_MATRIX.template.md
+   ├─ MAINTENANCE_PLAN.template.md
+   └─ ReleaseLog/
+      ├─ ReleaseWork/Rel_Buildflow-ver.X.Y.Z.template.md
+      └─ ReleaseResult/Rel_Result-ver.X.Y.Z.template.log
